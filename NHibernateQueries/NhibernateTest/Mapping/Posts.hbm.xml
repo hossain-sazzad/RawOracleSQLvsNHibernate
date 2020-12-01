@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateTest"
+                   namespace="NhibernateTest.Domain">
+
+	<class name="Posts">
+		<id name="postId"/>
+		<property name="communityId" />
+		<property name="localId" />
+		<property name="postTypeId" />
+		<property name="acceptedAnswerId" />
+		<property name="parentId" />
+    <property name="creationDate" />
+		<property name="score" />
+		<property name="viewCount" />
+		<property name="postBody" />
+    <property name="ownerUserId" />
+		<property name="ownerDisplayName" />
+		<property name="lastEditorUserId" />
+		<property name="lastEditorDisplayName" />
+		<property name="lastEditDate" />
+		<property name="lastActivityDate" />
+		<property name="title" />
+		<property name="answerCount" />
+		<property name="commentCount" />
+    <property name="favoriteCount" />
+		<property name="closedDate" />
+		<property name="communityOwnedDate" />
+		
+	</class>
+
+</hibernate-mapping>

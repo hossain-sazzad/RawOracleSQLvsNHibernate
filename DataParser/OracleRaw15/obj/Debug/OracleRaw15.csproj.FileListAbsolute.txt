@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OracleRaw15\OracleRaw15\bin\Debug\OracleRaw15.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OracleRaw15\OracleRaw15\obj\Debug\OracleRaw15.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OracleRaw15\OracleRaw15\obj\Debug\OracleRaw15.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OracleRaw15\OracleRaw15\bin\Debug\OracleRaw15.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OracleRaw15\OracleRaw15\bin\Debug\OracleRaw15.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\OracleRaw15\OracleRaw15\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hp\documents\visual studio 2015\Projects\OracleRaw15\OracleRaw15\obj\Debug\OracleRaw15.csprojResolveAssemblyReference.cache

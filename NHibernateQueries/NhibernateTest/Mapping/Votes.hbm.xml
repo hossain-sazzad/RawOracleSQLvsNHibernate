@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateTest"
+                   namespace="NhibernateTest.Domain">
+
+	<class name="Votes">
+		<id name="voteId"/>
+		<property name="postId" />
+		<property name="voteTypeId" />
+		<property name="voterUserId" />
+		<property name="creationDate" />
+		<property name="bountyAmount" />
+		
+	</class>
+
+</hibernate-mapping>

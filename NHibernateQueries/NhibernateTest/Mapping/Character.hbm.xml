@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateTest"
+                   namespace="NhibernateTest.Domain">
+  
+  <class name="Character" table="`Character`">
+    <id name="Id">
+      <generator class="guid" />
+    </id>
+    <property name="Name" column="`Name`" />
+    <property name="HealthPoints" />
+    <property name="Mana" />
+    <property name="Profession" />
+  </class>
+    
+</hibernate-mapping>

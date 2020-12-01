@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateTest"
+                   namespace="NhibernateTest.Domain">
+
+	<class name="Users">
+		<id name="userId"/>
+		<property name="communityId" />
+		<property name="accountId" />
+		<property name="localId" />
+		<property name="reputation" />
+		<property name="creationDate" />
+		<property name="lastAccessDate" />
+		<property name="views" />
+
+	</class>
+
+</hibernate-mapping>

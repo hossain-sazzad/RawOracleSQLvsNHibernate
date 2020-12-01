@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NhibernateTest"
+                   namespace="NhibernateTest.Domain">
+
+	<class name="PostLinks">
+		<id name="postLinkId"/>
+		<property name="creationDate" />
+    <property name="postId" />
+		<property name="releatedPostId" />
+		<property name="linkTypeId" />
+		
+	</class>
+
+</hibernate-mapping>
